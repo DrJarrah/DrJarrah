@@ -1,4 +1,4 @@
-👋 Hi there, I'm Atta! 🚀
+👋 Hi there, I'm Ata! 🚀
 
 🌟 **Frontend Developer | Aspiring Full-Stack Engineer | Tech Enthusiast**  
 💻 Passionate about crafting beautiful, functional websites and diving deep into the world of programming.
